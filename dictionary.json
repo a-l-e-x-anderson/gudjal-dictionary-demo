@@ -1,0 +1,98 @@
+[
+    {
+        "word": "walumu",
+        "gloss": "earlobe",
+        "partOfSpeech": "noun",
+        "audio": "audio/01-walumu-earlobe.mp3"
+      },
+    {
+        "word": "yali",
+        "gloss": "eye",
+        "partOfSpeech": "noun",
+        "audio": "audio/02-yali-eye.mp3"
+    },
+    {
+        "word": "gudja",
+        "gloss": "nose",
+        "partOfSpeech": "noun",
+        "audio": "audio/03-gudja-nose.mp3"
+      },
+    {
+        "word": "dhawa",
+        "gloss": "mouth",
+        "partOfSpeech": "noun",
+        "audio": "audio/04-dhawa-mouth.mp3"
+    },
+    {
+        "word": "djinggurrangu",
+        "gloss": "hair",
+        "partOfSpeech": "noun",
+        "audio": "audio/05-djinggurrangu-hair.mp3"
+      },
+    {
+        "word": "rriyala",
+        "gloss": "tooth",
+        "partOfSpeech": "noun",
+        "audio": "audio/06-rriyala-tooth.mp3"
+    },
+    {
+        "word": "ngamun",
+        "gloss": "breast",
+        "partOfSpeech": "noun",
+        "audio": "audio/07-ngamun-breast.mp3"
+      },
+    {
+        "word": "bamba",
+        "gloss": "belly",
+        "partOfSpeech": "noun",
+        "audio": "audio/08-bamba-belly.mp3"
+    },
+    {
+        "word": "manu",
+        "gloss": "neck",
+        "partOfSpeech": "noun",
+        "audio": "audio/09-manu-neck.mp3"
+      },
+    {
+        "word": "mambu",
+        "gloss": "back",
+        "partOfSpeech": "noun",
+        "audio": "audio/10-mambu-back.mp3"
+    },
+    {
+        "word": "mandila",
+        "gloss": "hand",
+        "partOfSpeech": "noun",
+        "audio": "audio/11-mandila-hand.mp3"
+      },
+    {
+        "word": "dhara",
+        "gloss": "leg",
+        "partOfSpeech": "noun",
+        "audio": "audio/12-dhara-leg.mp3"
+    },
+    {
+        "word": "dhina",
+        "gloss": "foot",
+        "partOfSpeech": "noun",
+        "audio": "audio/13-dhina-foot.mp3"
+      },
+    {
+        "word": "gurrang",
+        "gloss": "buttocks",
+        "partOfSpeech": "noun",
+        "audio": "audio/14-gurrang-buttocks.mp3"
+    },
+    {
+        "word": "nhanila",
+        "gloss": "dirt",
+        "partOfSpeech": "noun",
+        "audio": "audio/15-nhanila-dirt.mp3"
+      },
+    {
+        "word": "dhurru",
+        "gloss": "arm",
+        "partOfSpeech": "noun",
+        "audio": "audio/16-dhurru-arm.mp3"
+    }
+]

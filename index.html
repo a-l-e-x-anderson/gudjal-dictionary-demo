@@ -106,7 +106,7 @@
             align-items: center;
             width: 50%;
             min-width: 100px;
-            font-size: clamp(0.9em, 1.3vw, 1.5em);
+            font-size: clamp(1.05em, 1.3vw, 1.5em);
         }
 
         a:hover {
@@ -185,7 +185,7 @@
             resultsDiv.innerHTML = entries
                 .map(entry => `
                     <tr>
-                        <td>${entry.audio ? `<a onclick="playAudio('${entry.audio}')">► ${entry.word} (FT)</a>` : `${entry.word} + "FT"`}</td>
+                        <td>${entry.audio ? `<a onclick="playAudio('${entry.audio}')">🔊 ${entry.word} (FT)</a>` : `${entry.word} + "FT"`}</td>
                         <td>${entry.gloss}</td>
                     </tr>`)
                 .join("");
